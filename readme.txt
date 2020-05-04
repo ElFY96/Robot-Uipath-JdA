@@ -85,7 +85,8 @@ Process Transaction
      #When save alert appear click on dropdown, then on save as  and write 'in_savePath+fileName' as file path and send enter key.
 
 
-P.S : Before running robot, make sure that 'output data' folder and 'input data' are in your desktop.
+P.S : Before running robot, make sure that 'output data' folder and 'input data' folder, are in your desktop.
+ 
  Thank YOU. :)
 
 
